@@ -14,7 +14,7 @@
 
 # Code Language 
 
-- **Im a bit interested in SvelteKit now and trying to use it**
+- **Im a bit interested in SvelteKit now and trying to learn it**
 
 - Here are some languages i have experienced:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -24,22 +24,22 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original.svg" />
+<img align="left" alt="Sveltekit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original.svg" />
 
 #
 
 # Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&theme=gruvbox)
 
-- Yea, of course im just a newbie here, have nothing to do with these numbers, just want to my profile more colorful ehehe
+- Yea, of course im just a newbie here, have nothing to do with these numbers, just want to make my profile more colorful ehehe
 
 # Others
 
-- ⚡ Well, beside code, i think i can also call myself a real fan of anime things, also music things.
+- ⚡ Well, beside code, i think i can call myself a real fan of anime things, also music things.
 
 - ✨ I'm quite good at doing mental arithmetic with daily-used numbers, kinda fun when usually using it in coding.
 
-- 🔥Im always ready for new knowledge and new experience if they are important
+- 🔥Im always ready for new knowledge and new experience if they are important.
 
 - 😄 If you meet me in real life, i will be someone you can easily approach and get accquainted with...
 
@@ -52,4 +52,4 @@
 
 - Again, you guys are welcomed. Hope you find something useful in here
 
-**You can contact me through my gmail (thaiqt0002@gmail.com) anytime**
+  **You can contact me through my gmail (thaiqt0002@gmail.com) anytime**
