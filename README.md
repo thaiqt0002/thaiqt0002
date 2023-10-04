@@ -1,4 +1,4 @@
-# Fuyurun
+# 💫 Fuyurun
 
 **'Normal Alumnus (that's me now)'**
 
