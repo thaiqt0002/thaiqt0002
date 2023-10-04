@@ -50,6 +50,6 @@
 
 - Thank you for spending time reading my silly profile hehe. Im appreciate...
 
-- Again, you guys are welcomed here. Hope you find something useful in here
+- Again, you guys are welcomed. Hope you find something useful in here
 
 **You can contact me through my gmail (thaiqt0002@gmail.com) anytime**
