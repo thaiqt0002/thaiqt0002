@@ -52,4 +52,4 @@
 
 - Again, you guys are welcomed here. Hope you find something useful in here
 
-**You can contact me through gmail (thaiqt0002@gmail.com) or my social media (in the left part)**
+**You can contact me through gmail (thaiqt0002@gmail.com) or my facebook (facebook.com/Fuyurun)
