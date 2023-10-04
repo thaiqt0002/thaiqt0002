@@ -52,4 +52,4 @@
 
 - Again, you guys are welcomed. Hope you find something useful in here
 
-  **You can contact me through my gmail (thaiqt0002@gmail.com) anytime**
+**You can contact me through my gmail (thaiqt0002@gmail.com) anytime**
