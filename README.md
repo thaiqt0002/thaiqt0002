@@ -4,15 +4,19 @@
 
 # Something about me
 
-- Im now a part of University of Information Technology (UIT-HCM)
+- You can call me Fuyurun, Fuyu or my real name, Thai.
 
-- Hmm, it's like at the moment im writing this portfolio, i don't have much thing to write yet. Hope i will have more in the future
+- Im now a part of University of Information Technology (UIT-HCM).
 
-- Well, hope you find something interesting here (Actually it's not)
+- Hmm, it's like at the moment im writing this portfolio, i don't have much thing to write yet. Hope i will have more in the future.
+
+- My main target is become a fullstack developer.
 
 # Code Language 
 
 - **Im a bit interested in SvelteKit now and trying to use it**
+
+- Here are some languages i have experienced:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -22,23 +26,30 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original.svg" />
 
+#
 
-# Stat
+# Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&theme=gruvbox)
 
 - Yea, of course im just a newbie here, have nothing to do with these numbers, just want to my profile more colorful ehehe
 
-<!--
-**thaiqt0002/thaiqt0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Others
 
-Here are some ideas to get you started:
+- ⚡ Well, beside code, i think i can also call myself a real fan of anime things, also music things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ I'm quite good at doing mental arithmetic with daily-used numbers, kinda fun when usually using it in coding.
+
+- 🔥Im always ready for new knowledge and new experience if they are important
+
+- 😄 If you meet me in real life, i will be someone you can easily approach and get accquainted with...
+
+
+# Author's words
+
+- Eh, are you reading all the things above...?
+
+- Thank you for spending time reading my silly profile hehe. Im appreciate...
+
+- Again, you guys are welcomed here. Hope you find something useful in here
+
+**You can contact me through gmail (thaiqt0002@gmail.com) or my social media (in the left part)**
