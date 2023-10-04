@@ -20,12 +20,11 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original.svg" />
 
 
 # Stat
-![My github stats](https://github-readme-stats.vercel.app/api?username=thaiqt00002&show_icons=true&theme=gruvbox)
+![My github stats](https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&theme=gruvbox)
 
 - Yea, of course im just a newbie here, have nothing to do with these numbers, just want to my profile more colorful ehehe
 
