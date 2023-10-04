@@ -48,7 +48,7 @@
 
 - Eh, are you reading all the things above...?
 
-- Thank you for spending time reading my silly profile hehe. Im appreciate...
+- Thank you for spending time reading my silly profile hehehe...
 
 - Again, you guys are welcomed. Hope you find something useful in here
 
