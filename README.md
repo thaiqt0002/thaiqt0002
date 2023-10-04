@@ -8,7 +8,7 @@
 
 - Im now a part of University of Information Technology (UIT-HCM).
 
-- Hmm, it's like at the moment im writing this portfolio, i don't have much thing to write yet. Hope i will have more in the future.
+- Hmm, at the moment i write this portfolio, i don't have much thing to show yet. Hope i will have more in the future.
 
 - My main target is become a fullstack developer.
 
