@@ -4,7 +4,7 @@
 
 # Something about me
 
-- You can call me Fuyurun, Fuyu or my real name, Thai.
+- You can call me Fu, Fuyuru or my real name, Thai.
 
 - Im now a part of University of Information Technology (UIT-HCM).
 
