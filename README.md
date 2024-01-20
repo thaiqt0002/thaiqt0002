@@ -1,7 +1,3 @@
-# 💫 Fuyurun
-
-**'Normal Alumnus (that's me now)'**
-
 # Something about me
 
 - You can call me Fu, Fuyurun or my real name, Thai.
@@ -13,8 +9,6 @@
 - My main target is become a fullstack developer.
 
 # Code Language 
-
-- **Im a bit interested in SvelteKit now and trying to learn it**
 
 - Here are some languages i have experienced:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -31,17 +25,6 @@
 # Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&theme=gruvbox)
 
-- Yea, of course im just a newbie here, have nothing to do with these numbers, just want to make my profile more colorful ehehe
-
-# Others
-
-- ⚡ Well, beside code, i think i can call myself a real fan of anime things, also music things.
-
-- ✨ I'm quite good at doing mental arithmetic with daily-used numbers, kinda fun when usually using it in coding.
-
-- 🔥Im always ready for new knowledge and new experience if they are important.
-
-- 😄 If you meet me in real life, i will be someone you can easily approach and get accquainted with...
 
 
 # Author's words
