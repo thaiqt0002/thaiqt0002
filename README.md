@@ -24,12 +24,12 @@
 
 # Stats
 <p>
-    <img align='top' src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiqt0002&show_icons=true&locale=en&layout=compact" alt="card1" />
+    <img align='top' src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiqt0002&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="card1" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&locale=en" alt="card2" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&locale=en&theme=catppuccin_latte" alt="card2" />
 </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thaiqt0002" alt="card3" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thaiqt0002&theme=catppuccin_latte" alt="card3" /></p>
 
 
 
