@@ -1,3 +1,4 @@
+
 # Something about me
 
 - You can call me Fu or Thai.
@@ -11,28 +12,27 @@
 # Code Language 
 
 - Here are some languages i have experienced:
-<p style='display:flex; flex-wrap:wrap; gap:10px;'>
-    <img alt="HTML" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img alt="CSS" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img alt="JavaScript" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img alt="Typescript" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img alt="Sveltekit" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-    <img alt="React" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img alt="NodeJS" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="Python" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img alt="cpp" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img alt="Sveltekit" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-</p>
+<div>
+    <img alt="HTML" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img alt="CSS" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img alt="JavaScript" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img alt="Typescript" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img alt="Sveltekit" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img alt="React" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="NodeJS" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Python" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img alt="cpp" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img alt="Sveltekit" width="50px" style='margin:6px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+</div>
 <br>
 
 # My Stats
-<p>
-    <img align='top' src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiqt0002&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="card1" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&locale=en&theme=catppuccin_latte" alt="card2" />
-</p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thaiqt0002&theme=catppuccin_latte" alt="card3" /></p>
+<img align='top' height='200px' style='margin-bottom:10px' src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiqt0002&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="card1" />
+&nbsp;
+<img height='200px' style='margin-bottom:5px' src="https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&locale=en&theme=catppuccin_latte" alt="card2" />
+<img height='200px' width='480px' src="https://github-readme-streak-stats.herokuapp.com/?user=thaiqt0002&theme=catppuccin_latte" alt="card3" />
+
 
 
 
