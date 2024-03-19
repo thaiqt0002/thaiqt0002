@@ -28,10 +28,10 @@
 
 # My Stats
 
-<img align='top' height='200px' style='margin-bottom:10px' src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiqt0002&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="card1" />
+<img align='top' height='180px' style='padding-bottom:10px' src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiqt0002&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="card1" />
 &nbsp;
-<img height='200px' style='margin-bottom:5px' src="https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&locale=en&theme=catppuccin_latte" alt="card2" />
-<img height='200px' width='480px' src="https://github-readme-streak-stats.herokuapp.com/?user=thaiqt0002&theme=catppuccin_latte" alt="card3" />
+<img height='180px' style='padding-bottom:6px' src="https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&locale=en&theme=catppuccin_latte" alt="card2" />
+<img width='432px' src="https://github-readme-streak-stats.herokuapp.com/?user=thaiqt0002&theme=catppuccin_latte" alt="card3" />
 
 
 
