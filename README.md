@@ -27,9 +27,10 @@
 <br>
 
 # My Stats
-
+<div>
 <img align='top' height='180px' style='padding-bottom:10px' src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiqt0002&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="card1" />
 <img height='180px' src="https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&locale=en&theme=catppuccin_latte" alt="card2" />
+</div>
 <img width='432px' src="https://github-readme-streak-stats.herokuapp.com/?user=thaiqt0002&theme=catppuccin_latte" alt="card3" />
 
 
