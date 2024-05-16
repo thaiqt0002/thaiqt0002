@@ -46,3 +46,9 @@
 - Again, you guys are welcomed. Hope you find something useful in here
 
 **You can contact me through my gmail (thaiqt0002@gmail.com) anytime**
+
+# Profile stats
+
+![Visitor Count](https://profile-counter.glitch.me/thaiqt0002/count.svg)
+
+![Hits](https://hits.sh/github.com/thaiqt0002.svg?view=today-total&style=for-the-badge&label=visitors&logo=4chan)
