@@ -1,5 +1,5 @@
 
-# Something about me
+## Something about me
 
 - You can call me Thai.
 
@@ -7,12 +7,12 @@
 
 - My main target is fullstack developer.
 
-# Profile stats
+## Profile stats
 ![Visitor Count](https://profile-counter.glitch.me/thaiqt0002/count.svg)
 
 ![Hits](https://hits.sh/github.com/thaiqt0002.svg?view=today-total&style=for-the-badge&label=visitors&logo=4chan)
 
-# Code Language 
+## Code Language 
 
 - Here are some languages i have experienced:
 <div>
@@ -29,7 +29,7 @@
 </div>
 <br>
 
-# My Stats
+## My Stats
 <div>
 <img align='top' height='180px' style='padding-bottom:10px' src="https://github-readme-stats.vercel.app/api/top-langs?username=thaiqt0002&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte" alt="card1" />
 <img height='180px' src="https://github-readme-stats.vercel.app/api?username=thaiqt0002&show_icons=true&locale=en&theme=catppuccin_latte" alt="card2" />
