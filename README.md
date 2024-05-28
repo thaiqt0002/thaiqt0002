@@ -1,13 +1,16 @@
 
 # Something about me
 
-- You can call me Fu or Thai.
+- You can call me Thai.
 
 - Im now a part of University of Information Technology (UIT-HCM).
 
-- Hmm, at the moment i write this portfolio, i don't have much thing to show yet. Hope i will have more in the future.
+- My main target is fullstack developer.
 
-- My main target is become a fullstack developer.
+# Profile stats
+![Visitor Count](https://profile-counter.glitch.me/thaiqt0002/count.svg)
+
+![Hits](https://hits.sh/github.com/thaiqt0002.svg?view=today-total&style=for-the-badge&label=visitors&logo=4chan)
 
 # Code Language 
 
@@ -33,22 +36,7 @@
 </div>
 <img width='432px' src="https://github-readme-streak-stats.herokuapp.com/?user=thaiqt0002&theme=catppuccin_latte" alt="card3" />
 
+**You can contact me through this gmail (thaiqt0002@gmail.com)**
 
 
 
-
-# Author's words
-
-- Eh, are you reading all the things above...?
-
-- Thank you for spending time reading my silly profile hehehe...
-
-- Again, you guys are welcomed. Hope you find something useful in here
-
-**You can contact me through my gmail (thaiqt0002@gmail.com) anytime**
-
-# Profile stats
-
-![Visitor Count](https://profile-counter.glitch.me/thaiqt0002/count.svg)
-
-![Hits](https://hits.sh/github.com/thaiqt0002.svg?view=today-total&style=for-the-badge&label=visitors&logo=4chan)
